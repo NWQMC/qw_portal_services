@@ -11,7 +11,7 @@
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <wma.artifactory.url>https://cida.usgs.gov/artifactory</wma.artifactory.url>
-        <mybatis-spring-version>2.0.2</mybatis-spring-version>
+        <mybatis-spring-version>2.0.3</mybatis-spring-version>
         <mybatis-version>3.5.2</mybatis-version>
         <springfox-version>2.9.2</springfox-version>
         <velocity-tools-version>2.0</velocity-tools-version>
