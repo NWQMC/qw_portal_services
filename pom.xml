@@ -13,7 +13,7 @@
         <wma.artifactory.url>https://cida.usgs.gov/artifactory</wma.artifactory.url>
         <mybatis-spring-version>2.0.3</mybatis-spring-version>
         <mybatis-version>3.5.3</mybatis-version>
-        <springdoc.version>1.2.29</springdoc.version>
+        <springdoc.version>1.2.30</springdoc.version>
         <velocity-tools-version>2.0</velocity-tools-version>
     </properties>
 
