@@ -17,7 +17,7 @@ applicationName: "lookup_services"
 # port that is exposed by your container
 containerPort: 8080
 # string parameter specifying a path that ALB should use to verify that your application is alive
-healthCheck: "/Codes/about/health"
+healthCheck: "/api/Codes/about/health"
 # configuration repository paths
 configRepoPath: "wma/docker/wdfn/lookup_services"
 configCredentialsId: "wma-eto-eb-rsa"
