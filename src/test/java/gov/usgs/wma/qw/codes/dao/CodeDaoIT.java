@@ -461,7 +461,7 @@ public class CodeDaoIT extends BaseIT {
 		assertEquals(5, codes.size());
 		assertEquals("USGS-07083000", codes.get(0).getValue());
 		assertEquals("HALFMOON CREEK NEAR MALTA, CO", codes.get(0).getDesc());
-		assertEquals("BIODATA NWIS", codes.get(0).getProviders());
+		assertEquals("NWIS", codes.get(0).getProviders());
 		
 		Map<String, Object> parms = new HashMap<String, Object>();
 		int cnt = codeDao.getRecordCount(CodeType.MONITORINGLOCATION, parms);
@@ -515,10 +515,9 @@ public class CodeDaoIT extends BaseIT {
 		parms.put("provider", new String[]{"BIODATA"});
 		codes = codeDao.getCodes(CodeType.MONITORINGLOCATION, parms);
 		assertNotNull(codes);
-		assertEquals(1, codes.size());
-		assertEquals("USGS-07083000", codes.get(0).getValue());
+		assertEquals(0, codes.size());
 		cnt = codeDao.getRecordCount(CodeType.MONITORINGLOCATION, parms);
-		assertEquals(1, cnt);
+		assertEquals(0, cnt);
 		
 		parms.clear();
 		parms.put("provider", new String[]{"BIODATA", "NWIS"});
