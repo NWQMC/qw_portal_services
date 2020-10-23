@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <Codes>
-    <Code value='USGS-07083000' desc='HALFMOON CREEK NEAR MALTA, CO' providers='BIODATA NWIS'/>
+    <Code value='USGS-07083000' desc='HALFMOON CREEK NEAR MALTA, CO' providers='NWIS'/>
 	<Code value='USGS-07083200' desc='HALFMOON CR BL HALFMOON DIVERSION NR LEADVILLE, CO' providers='NWIS'/>
 	<Code value='USGS-07083500' desc='HALFMOON CREEK NEAR LEADVILLE, CO.' providers='NWIS'/>
 	<Code value='USGS-07083700' desc='ARKANSAS RIVER NEAR MALTA, CO.' providers='NWIS'/>

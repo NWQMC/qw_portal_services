@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <dataset>
     <monitoring_loc data_source_id="2" code_value="USGS-07083000" description="HALFMOON CREEK NEAR MALTA, CO" search_text="USGS-07083000 HALFMOON CREEK NEAR MALTA, CO" organization="USGS-CO" />
-    <monitoring_loc data_source_id="4" code_value="USGS-07083000" description="HALFMOON CREEK NEAR MALTA, CO" search_text="USGS-07083000 HALFMOON CREEK NEAR MALTA, CO" organization="USGS-CO" />
     <monitoring_loc data_source_id="2" code_value="USGS-07083200" description="HALFMOON CR BL HALFMOON DIVERSION NR LEADVILLE, CO" search_text="USGS-07083200 HALFMOON CR BL HALFMOON DIVERSION NR LEADVILLE, CO" organization="USGS-CO" />
     <monitoring_loc data_source_id="2" code_value="USGS-07083500" description="HALFMOON CREEK NEAR LEADVILLE, CO." search_text="USGS-07083500 HALFMOON CREEK NEAR LEADVILLE, CO." organization="USGS-CO" />
     <monitoring_loc data_source_id="2" code_value="USGS-07083700" description="ARKANSAS RIVER NEAR MALTA, CO." search_text="USGS-07083700 ARKANSAS RIVER NEAR MALTA, CO." organization="USGS-AR" />

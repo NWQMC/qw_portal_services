@@ -3,7 +3,7 @@
         {
             "value": "USGS-07083000",
             "desc": "HALFMOON CREEK NEAR MALTA, CO",
-            "providers": "BIODATA NWIS"
+            "providers": "NWIS"
         },
         {
             "value": "USGS-07083200",
