@@ -11,7 +11,7 @@ deployJobName: "qw-portal-services-deploy-wdfn"
 # name of the project
 projectName: "iow-allgemein"
 # maximum amount of RAM for running Docker containers in the service
-memory: 256
+memory: 512
 # name of the application or service
 applicationName: "lookup_services"
 # port that is exposed by your container
