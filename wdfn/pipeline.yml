@@ -28,7 +28,7 @@ urlRules:
     priority: 426
 tags:
   wma:costCenter: TBD
-  wma:organization: iow
+  wma:organization: IOW
   wma:contact: TBD
   wma:taggingVersion: 0.0.1
   wma:project_id: wqp
