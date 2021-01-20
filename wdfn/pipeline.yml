@@ -29,6 +29,6 @@ urlRules:
 tags:
   wma:costCenter: TBD
   wma:organization: IOW
-  wma:contact: TBD
+  wma:contact: "jkreft@usgs.gov"
   wma:taggingVersion: 0.0.1
-  wma:project_id: wqp
+  wma:project_id: iow
