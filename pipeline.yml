@@ -28,8 +28,8 @@ urlRules:
     priority: 502
 tags:
   wma:costCenter: TBD
-  wma:organization: iow
-  wma:contact: TBD
+  wma:organization: IOW
+  wma:contact: "jkreft@usgs.gov"
   wma:taggingVersion: 0.0.1
   wma:project_id: wqp
   
